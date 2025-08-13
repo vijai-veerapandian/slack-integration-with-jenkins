@@ -98,7 +98,7 @@ Moment of truth, Check the `all-testcorp` channel inside slack for any message f
 
 ![19](./assets/19.jpg)
 
-Validate, It works. Time to go ahead and build pipeline your project and make sure of this slack g `slackSlack message` is added at each step of Jenkins pipeline process to get notified on the slack. 
+Validate, It works. Time to go ahead and build pipeline your project and make sure  `slackSlack message` is added at each step of Jenkins pipeline process to get notified on the slack. 
 
 
 
