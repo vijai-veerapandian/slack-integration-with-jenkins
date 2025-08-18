@@ -50,7 +50,7 @@ Keep the generated bot token safe for using it on the Jenkins slack credential c
 
 ## Slack Application
 
-Add the `Jenkins` apps into the channel and make sure the channel is created and you're part of the channel member.
+Invite the `Jenkins` apps into the channel using `@Jenkins`. so, that you're part of the channel member.
 
 ![9](./assets/9.jpg)
 
@@ -62,7 +62,7 @@ Add the `Jenkins` apps into the channel and make sure the channel is created and
 ## Jenkins Master Slack Configuration 
 
 
-Lets go back to Jenkins master server to Manage credentials and to Global credentials and set `secret text` and use the bot token and set slack description and slack ID as : `slack-bot-notification`
+Lets go back to Jenkins master server to Manage credentials and to global credentials and set `secret text` and use the bot token and set slack description and slack ID as : `slack-bot-notification`
 
 ![12](./assets/12.jpg)
 
