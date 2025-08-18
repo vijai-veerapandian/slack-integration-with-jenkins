@@ -37,11 +37,11 @@ and then go into its settings and focus on following items.
 
 Keep the generated bot token safe for using it on the Jenkins slack credential configuration. So, Jenkins can send message with slack using the bot token.
 
-![6](./assets/6.jpg)
+![6](./assets/7.jpg)
 
 2. Setting Token Scopes
 
-![7](./assets/7.jpg)
+![7](./assets/6.jpg)
 
 3. OAuth Tokens
 
