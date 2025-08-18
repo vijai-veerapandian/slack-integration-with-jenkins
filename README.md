@@ -20,7 +20,7 @@ Login into api.slack and go to your apps and then create an App as follows or fo
 
 create an app from scratch
 
-![3](./assets/3.jpg)
+![3.0](./assets/3.jpg)
 
 and give a name for the app `Jenkins` and the workspace `Testcorp` 
 
